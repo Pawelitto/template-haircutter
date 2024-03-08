@@ -1,37 +1,35 @@
 <script setup lang="ts">
-const nuxtApp = useNuxtApp()
-const { activeHeadings, updateHeadings } = useScrollspy()
+const nuxtApp = useNuxtApp();
+const { activeHeadings, updateHeadings } = useScrollspy();
 
-const links = computed(() => [{
-  label: 'Główna',
-  to: '#features',
-  icon: 'i-heroicons-home',
-  active: activeHeadings.value.includes('features') && !activeHeadings.value.includes('pricing')
-}, {
-  label: 'Oferta',
-  to: '#pricing',
-  icon: 'i-heroicons-document-duplicate',
-  active: activeHeadings.value.includes('pricing') && !activeHeadings.value.includes('testimonials')
-}, {
-  label: 'Kontakt',
-  to: '#testimonials',
-  icon: 'i-heroicons-academic-cap',
-  active: activeHeadings.value.includes('testimonials')
-}, {
-  label: 'Pytania i odpowiedzi',
-  to: '#faq',
-  icon: 'i-heroicons-question-mark-circle',
-  active: activeHeadings.value.includes('faq')
-}])
+const links = computed(() => [
+  {
+    label: "Oferta",
+    to: "#pricing",
+    icon: "i-heroicons-document-duplicate",
+    active: activeHeadings.value.includes("pricing"),
+  },
+  {
+    label: "Kontakt",
+    to: "#kontakt",
+    icon: "i-heroicons-academic-cap",
+    active: activeHeadings.value.includes("kontakt"),
+  },
+  {
+    label: "Pytania i odpowiedzi",
+    to: "#faq",
+    icon: "i-heroicons-question-mark-circle",
+    active: activeHeadings.value.includes("faq"),
+  },
+]);
 
-nuxtApp.hooks.hookOnce('page:finish', () => {
+nuxtApp.hooks.hookOnce("page:finish", () => {
   updateHeadings([
-    document.querySelector('#features'),
-    document.querySelector('#pricing'),
-    document.querySelector('#testimonials'),
-    document.querySelector('#faq')
-  ])
-})
+    document.querySelector("#pricing"),
+    document.querySelector("#kontakt"),
+    document.querySelector("#faq"),
+  ]);
+});
 </script>
 
 <template>
@@ -50,8 +48,7 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
     </template>
 
     <template #right>
-       <UColorModeToggle />
+      <UColorModeToggle />
     </template>
-
   </UHeader>
 </template>
