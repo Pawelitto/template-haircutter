@@ -1,6 +1,6 @@
 <template>
   <div
-    class="text-center md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0"
+    class="text-center md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 space-y-4 md:space-y-0"
   >
     <div>
       <div
@@ -8,7 +8,7 @@
       >
         <UIcon
           name="i-heroicons-envelope"
-          class="w-5 h-5 text-gray-600 lg:w-8 lg:h-8 dark:text-gray-500"
+          class="w-5 h-5 text-primary-600 lg:w-8 lg:h-8"
           dynamic
         />
       </div>
@@ -28,7 +28,7 @@
       >
         <UIcon
           name="i-heroicons-phone"
-          class="w-5 h-5 text-gray-600 lg:w-8 lg:h-8 dark:text-gray-500"
+          class="w-5 h-5 text-primary-600 lg:w-8 lg:h-8"
           dynamic
         />
       </div>
@@ -48,7 +48,7 @@
       >
         <UIcon
           name="i-heroicons-map-pin"
-          class="w-5 h-5 text-gray-600 lg:w-8 lg:h-8 dark:text-gray-500"
+          class="w-5 h-5 text-primary-600 lg:w-8 lg:h-8"
           dynamic
         />
       </div>
