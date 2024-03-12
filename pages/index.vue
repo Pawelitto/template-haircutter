@@ -88,11 +88,11 @@ useSeoMeta({
       </UPageColumns>
     </ULandingSection>
 
-    <ULandingSection
+    <!-- <ULandingSection
       class="bg-primary-50 dark:bg-primary-400 dark:bg-opacity-10"
     >
       <ULandingCTA v-bind="page.cta" :card="false" />
-    </ULandingSection>
+    </ULandingSection> -->
 
     <ULandingSection id="kontakt" class="scroll-mt-[var(--header-height)]">
       <Kontakt />

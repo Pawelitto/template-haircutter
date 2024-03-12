@@ -103,52 +103,54 @@ pricing:
         - 100 SSL Certificates
         - 100 Support Tickets
 testimonials:
-  headline: Testimonials
-  title: What our customers are saying.
-  description: Proident sunt exercitation minim laborum enim laboris labore esse.
+  headline: Opinie
+  title: Co mówią nasi klienci
+  description: Jakość naszych usług potwierdzona opiniami zadowolonych klientów.
   items:
-    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+    - quote: Jestem niezmiernie zadowolony z usług tego salonu. Profesjonalizm, jakość oraz podejście do klienta stoją na najwyższym poziomie. Serdecznie polecam! To miejsce zmieniło moje podejście do pielęgnacji włosów. Dzięki poradom eksperta moje włosy są teraz zdro
       author:
         name: Rose Roberson
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=1
           loading: lazy
-    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+    - quote: wsze i pełne blasku. Po wizycie w tym salonie, moje włosy wyglądają lepiej niż
       author:
         name: Chace Rodgers
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=7
           loading: lazy
-    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+    - quote: kiedykolwiek. Precyzyjne strzyżenie, świetna atmosfera i profesjonalna obsługa. Salon godny polecenia! Doskonała obsługa, indywidualne podejście do klienta oraz przystępne ceny. Tutaj naprawdę dba się o zadowolenie klientów. Znakomita jakość
       author:
         name: Cornelius Sheppard
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=3
           loading: lazy
-    - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
+    - quote: usług za rozsądną cenę. Fryzjerzy są kompetentni i zawsze służą dobrą radą. Jestem stałą klientką i zawsze wychodzę stąd zadowolona. Niesamowita przemi
       author:
         name: Destinee Woods
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=5
           loading: lazy
-    - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
+    - quote: ana! Fryzjerzy dokładnie słuchają oczekiwań i doskonale je realizują. Atmosfera w salonie jest b
       author:
         name: Kaleb Mccormick
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=8
           loading: lazy
-    - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
+    - quote: ardo przyjazna. Jestem niezmiernie zadowolony z usług tego salonu. Profesjonalizm, jakość oraz podejście do klienta stoją na najwyższym poziomie. Serdecznie polecam! To miejs
       author:
         name: Jazmin Mccall
-        description: CEO at Company
+        description: CEO w Firmie
         avatar:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
+
+
 cta:
   title: Get started today
   description: Nisi mollit id aliquip sunt est laborum sit sit.
