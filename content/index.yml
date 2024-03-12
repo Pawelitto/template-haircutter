@@ -1,24 +1,18 @@
 title: Fryzjer - Sabina Baron
 description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Odkryj swoją nową fryzurę już dziś
+  description: Nasze doświadczone ręce transformują Twoje włosy, oferując personalizowane strzyżenie i stylizację. Poczuj się wyjątkowo z każdym cięciem.
   headline:
     label: Kontakt
     to: '#kontakt'
     icon: i-heroicons-phone-arrow-down-left
   links:
-    - label: Get started
+    - label: Opinie
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '#features'
+      to: '#opinie'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/landing
-      target: _blank
 logos:
   title: Trusted by the world's best
   icons:
@@ -50,7 +44,6 @@ offer:
     - title: Porady ekspertów
       description: Profesjonalne doradztwo w doborze fryzur i produktów pielęgnacyjnych.
       icon: i-heroicons-light-bulb
-
 pricing:
   headline: Pricing
   title: A plan for every need
@@ -149,8 +142,6 @@ testimonials:
         avatar:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
-
-
 cta:
   title: Get started today
   description: Nisi mollit id aliquip sunt est laborum sit sit.

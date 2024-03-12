@@ -9,6 +9,15 @@ useSeoMeta({
   description: page.value.description,
   ogDescription: page.value.description,
 });
+
+const items = [
+  "https://picsum.photos/1920/1080?random=1",
+  "https://picsum.photos/1920/1080?random=2",
+  "https://picsum.photos/1920/1080?random=3",
+  "https://picsum.photos/1920/1080?random=4",
+  "https://picsum.photos/1920/1080?random=5",
+  "https://picsum.photos/1920/1080?random=6",
+];
 </script>
 
 <template>
@@ -40,16 +49,14 @@ useSeoMeta({
         </UBadge>
       </template>
 
-      <Placeholder />
-
-      <ULandingLogos :title="page.logos.title" align="center">
-        <UIcon
-          v-for="icon in page.logos.icons"
-          :key="icon"
-          :name="icon"
-          class="w-12 h-12 lg:w-16 lg:h-16 flex-shrink-0 text-gray-900 dark:text-white"
-        />
-      </ULandingLogos>
+      <UCarousel
+        v-slot="{ item }"
+        :items="items"
+        :ui="{ item: 'basis-full' }"
+        class="rounded-lg overflow-hidden"
+      >
+        <img :src="item" class="w-full" draggable="false" />
+      </UCarousel>
     </ULandingHero>
 
     <ULandingSection
@@ -75,7 +82,7 @@ useSeoMeta({
       :description="page.testimonials.description"
     >
       <UPageColumns
-        id="testimonials"
+        id="opinie"
         class="xl:columns-4 scroll-mt-[calc(var(--header-height)+140px+128px+96px)]"
       >
         <div
@@ -87,12 +94,6 @@ useSeoMeta({
         </div>
       </UPageColumns>
     </ULandingSection>
-
-    <!-- <ULandingSection
-      class="bg-primary-50 dark:bg-primary-400 dark:bg-opacity-10"
-    >
-      <ULandingCTA v-bind="page.cta" :card="false" />
-    </ULandingSection> -->
 
     <ULandingSection id="kontakt" class="scroll-mt-[var(--header-height)]">
       <Kontakt />
