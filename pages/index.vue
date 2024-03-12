@@ -11,12 +11,12 @@ useSeoMeta({
 });
 
 const items = [
-  "https://picsum.photos/1920/1080?random=1",
-  "https://picsum.photos/1920/1080?random=2",
-  "https://picsum.photos/1920/1080?random=3",
-  "https://picsum.photos/1920/1080?random=4",
-  "https://picsum.photos/1920/1080?random=5",
-  "https://picsum.photos/1920/1080?random=6",
+  "https://www.royal-studio.pl/images/foto/zaklad-01.jpg?v01",
+  "https://zsm.resman.pl/wp-content/uploads/2022/03/33538697_FOTO_RAPORT_Polki-u-fryzjera.-Jak-dbamy-o-swoje-wlosy.jpg",
+  "https://media.students.pl/public/article/image/fryzjer.jpeg",
+  "https://porady.pracuj.pl/file/2021/06/fryzjer_900.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3PwvUhDOljvm_SgxdIBfgdtbhS_x1gLXyw&usqp=CAU",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAV5tH-HFbuo14fQwhmFyQnRtM6KTSl9wUpQ&usqp=CAU",
 ];
 </script>
 
@@ -53,7 +53,16 @@ const items = [
         v-slot="{ item }"
         :items="items"
         :ui="{ item: 'basis-full' }"
-        class="rounded-lg overflow-hidden"
+        :prev-button="{
+          color: 'gray',
+          icon: 'i-heroicons-arrow-left-20-solid',
+        }"
+        :next-button="{
+          color: 'gray',
+          icon: 'i-heroicons-arrow-right-20-solid',
+        }"
+        arrows
+        class="rounded-lg overflow-hidden max-h-[85vh]"
       >
         <img :src="item" class="w-full" draggable="false" />
       </UCarousel>
