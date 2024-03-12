@@ -5,9 +5,9 @@ const { activeHeadings, updateHeadings } = useScrollspy();
 const links = computed(() => [
   {
     label: "Oferta",
-    to: "#pricing",
+    to: "#oferta",
     icon: "i-heroicons-document-duplicate",
-    active: activeHeadings.value.includes("pricing"),
+    active: activeHeadings.value.includes("oferta"),
   },
   {
     label: "Kontakt",
@@ -25,7 +25,7 @@ const links = computed(() => [
 
 nuxtApp.hooks.hookOnce("page:finish", () => {
   updateHeadings([
-    document.querySelector("#pricing"),
+    document.querySelector("#oferta"),
     document.querySelector("#kontakt"),
     document.querySelector("#faq"),
   ]);

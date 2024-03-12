@@ -53,38 +53,20 @@ useSeoMeta({
     </ULandingHero>
 
     <ULandingSection
-      :title="page.features.title"
-      :description="page.features.description"
-      :headline="page.features.headline"
+      :title="page.offer.title"
+      :description="page.offer.description"
+      :headline="page.offer.headline"
     >
       <UPageGrid
-        id="features"
+        id="oferta"
         class="scroll-mt-[calc(var(--header-height)+140px+128px+96px)]"
       >
         <ULandingCard
-          v-for="(item, index) in page.features.items"
+          v-for="(item, index) in page.offer.items"
           :key="index"
           v-bind="item"
         />
       </UPageGrid>
-    </ULandingSection>
-
-    <ULandingSection
-      :title="page.pricing.title"
-      :description="page.pricing.description"
-      :headline="page.pricing.headline"
-    >
-      <UPricingGrid
-        id="pricing"
-        compact
-        class="scroll-mt-[calc(var(--header-height)+140px+128px+96px)]"
-      >
-        <UPricingCard
-          v-for="(plan, index) in page.pricing.plans"
-          :key="index"
-          v-bind="plan"
-        />
-      </UPricingGrid>
     </ULandingSection>
 
     <ULandingSection

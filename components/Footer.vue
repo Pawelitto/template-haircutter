@@ -35,12 +35,6 @@ function onSubmit() {
 
 <template>
   <UFooter>
-    <template #top>
-      <UFooterColumns :links="links">
-        <template #right> </template>
-      </UFooterColumns>
-    </template>
-
     <template #left>
       <p class="text-gray-500 dark:text-gray-400 text-sm">
         Copyright © {{ new Date().getFullYear() }}. All rights reserved.
