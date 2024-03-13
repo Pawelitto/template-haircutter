@@ -12,7 +12,7 @@ const links = computed(() => [
   {
     label: "Kontakt",
     to: "#kontakt",
-    icon: "i-heroicons-academic-cap",
+    icon: "i-heroicons-phone",
     active: activeHeadings.value.includes("kontakt"),
   },
   {
