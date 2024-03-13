@@ -37,9 +37,9 @@
         Chętnie odpowiemy na Twoje pytania i zapytania telefonicznie.
       </p>
       <NuxtLink
-        to="tel:+48513566650"
+        to="tel:+48322354948"
         class="font-semibold text-primary-600 dark:text-primary-500"
-        >+48 513 566 650</NuxtLink
+        >+48 32 235 49 48</NuxtLink
       >
     </div>
     <div>
