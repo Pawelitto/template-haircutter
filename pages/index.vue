@@ -11,12 +11,12 @@ useSeoMeta({
 });
 
 const items = [
-  "https://www.royal-studio.pl/images/foto/zaklad-01.jpg?v01",
-  "https://zsm.resman.pl/wp-content/uploads/2022/03/33538697_FOTO_RAPORT_Polki-u-fryzjera.-Jak-dbamy-o-swoje-wlosy.jpg",
   "https://media.students.pl/public/article/image/fryzjer.jpeg",
+  "https://www.themailroombarberco.com/cdn/shop/articles/MailroomBarberCo_TeachingSession-7_2048x.jpg?v=1642018666",
+  "https://gfx.stylzycia.radiozet.pl/var/g3-radiozetstylzycia/storage/images/moda-i-uroda/fryzjerka-z-leborka-zniszczyla-klientce-wlosy-sad-zarzadzil-odszkodowanie/14712729-1-pol-PL/Fryzjerka-z-Leborka-zniszczyla-klientce-wlosy.-Sad-zarzadzil-odszkodowanie_full-hd.jpg",
   "https://porady.pracuj.pl/file/2021/06/fryzjer_900.jpg",
-  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3PwvUhDOljvm_SgxdIBfgdtbhS_x1gLXyw&usqp=CAU",
-  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAV5tH-HFbuo14fQwhmFyQnRtM6KTSl9wUpQ&usqp=CAU",
+  "https://d-art.ppstatic.pl/kadry/k/r/1/72/ec/a1ac1b6122007d1bbd7de11bd4e1_o_original.jpg",
+  "https://kwalifikacje.edu.pl/wp-content/uploads/shutterstock_481482805-scaled.jpg",
 ];
 </script>
 
@@ -52,7 +52,7 @@ const items = [
       <UCarousel
         v-slot="{ item }"
         :items="items"
-        :ui="{ item: 'basis-full' }"
+        :ui="{ item: 'basis-full ' }"
         :prev-button="{
           color: 'gray',
           icon: 'i-heroicons-arrow-left-20-solid',
