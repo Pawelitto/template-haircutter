@@ -64,7 +64,13 @@ const items = [
         arrows
         class="rounded-lg overflow-hidden max-h-[85vh]"
       >
-        <img :src="item" class="w-full" draggable="false" />
+        <NuxtImg
+          :src="item"
+          :alt="item"
+          class="w-full object-cover"
+          loading="lazy"
+          draggable="false"
+        />
       </UCarousel>
     </ULandingHero>
 

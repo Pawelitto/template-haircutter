@@ -43,7 +43,7 @@ nuxtApp.hooks.hookOnce("page:finish", () => {
     </template>
 
     <template #right>
-      <UColorModeToggle />
+      <UColorModeToggle aria-label="Change Color" />
     </template>
   </UHeader>
 </template>
