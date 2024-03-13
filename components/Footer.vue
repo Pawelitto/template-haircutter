@@ -36,20 +36,16 @@ function onSubmit() {
 <template>
   <UFooter>
     <template #left>
-      <p class="text-gray-500 dark:text-gray-400 text-sm">
-        Copyright © {{ new Date().getFullYear() }}. All rights reserved.
-      </p>
-    </template>
-
-    <template #center>
-      <p>Stworzone przez:&nbsp;</p>
       <NuxtLink
         to="https://github.com/Pawelitto"
         target="_blank"
-        class="text-primary-500 dark:text-primary-400 font-bold"
+        class="flex items-center"
       >
-        Paweł Pietras</NuxtLink
-      >
+        <p>Stworzone przez:&nbsp;</p>
+        <span class="text-primary-500 dark:text-primary-400 font-bold">
+          Paweł Pietras</span
+        >
+      </NuxtLink>
     </template>
 
     <template #right>
