@@ -1,4 +1,4 @@
-title: Marianna Kania
+title: Marianna Kania - Artystyczne fryzjerstwo.
 description: Odkryj swoją nową fryzurę już dziś
 hero:
   title: Odkryj swoją nową fryzurę już dziś
@@ -41,47 +41,47 @@ testimonials:
   title: Co mówią nasi klienci
   description: Jakość naszych usług potwierdzona opiniami zadowolonych klientów.
   items:
-    - quote: Jestem niezmiernie zadowolony z usług tego salonu. Profesjonalizm, jakość oraz podejście do klienta stoją na najwyższym poziomie. Serdecznie polecam! To miejsce zmieniło moje podejście do pielęgnacji włosów. Dzięki poradom eksperta moje włosy są teraz zdro
+    - quote: Super doradztwo, pomysły, ogrom wiedzy i piękne wykonanie, a do tego miło😀 i głowa staje się piękniejsza, to i zadowolona😁 A mąż po wizycie jeszcze przystojniejszy😍 Dziękuję😊…
       author:
-        name: Rose Roberson
-        description: CEO w Firmie
+        name: Kaja Koboj
         avatar:
-          src: https://i.pravatar.cc/120?img=1
+          src: https://lh3.googleusercontent.com/a-/ALV-UjW_BocgEGcq8p4la6FfLuZ-n1_3UCY0lCUuOuCWyc3XgR7toR2R=w72-h72-p-rp-mo-br100
           loading: lazy
-    - quote: Po wizycie w tym salonie, moje włosy wyglądają o niebo lepiej.
+    - quote: Nowe miejsce, nowy salon ale jakość i atmosfera bez zmian :⁠-⁠) Świetna obsługa, fantastyczna atmosfera i usługi na najwyższym poziomie, całkowicie polecam :-)
       author:
-        name: Chace Rodgers
-        description: CEO w Firmie
+        name: Aleksander Szweda
         avatar:
-          src: https://i.pravatar.cc/120?img=7
+          src: https://lh3.googleusercontent.com/a-/ALV-UjW0PfcpQghBYlnq0QYLbL3XEmy31ZQbzCiUZampQEc2kKX1CfX4WA=w72-h72-p-rp-mo-ba5-br100
           loading: lazy
-    - quote: Precyzyjne strzyżenie, świetna atmosfera i profesjonalna obsługa. Salon godny polecenia! Doskonała obsługa, indywidualne podejście do klienta oraz przystępne ceny. Tutaj naprawdę dba się o zadowolenie klientów.
+    - quote: Polecam! Profesjonalna obsługa pani wie o czym mówi. Pani wykonuje analizę kolorystyczną.
       author:
-        name: Cornelius Sheppard
-        description: CEO w Firmie
+        name: Marcin Kubica
         avatar:
-          src: https://i.pravatar.cc/120?img=3
+          src: https://lh3.googleusercontent.com/a-/ALV-UjV74YWVsKwmZWbhL9nm2bAfLkwJx08aVdy8287vTuvVw7aXJdhQHA=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Usługi za rozsądną cenę. Fryzjerzy są kompetentni i zawsze służą dobrą radą. Jestem stałą klientką i zawsze wychodzę stąd zadowolona. Niesamowita przemiana.
+    - quote: Swobodna atmosfera, profesjonalne podejście do klienta, przemiła obsługa i pyszna kawa. :)
       author:
-        name: Destinee Woods
-        description: CEO w Firmie
+        name: Wojciech Greda
         avatar:
-          src: https://i.pravatar.cc/120?img=5
+          src: https://lh3.googleusercontent.com/a-/ALV-UjVUpCXnSdLfeTqJAoNjiWZo8dPLuEcLpfpbBKPI7BgZRJbBKYVHTw=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Fryzjerzy dokładnie słuchają oczekiwań i doskonale je realizują. Atmosfera w salonie jest świetna.
+    - quote: Bardzo dobra fryzjerka. Perfekcjonistka.
       author:
-        name: Kaleb Mccormick
-        description: CEO w Firmie
+        name: Ursus Bizon
         avatar:
-          src: https://i.pravatar.cc/120?img=8
+          src: https://lh3.googleusercontent.com/a-/ALV-UjXNysHozhwymtkF8vBeBDMSos3ToI2lgrjb-9ZH8Zh9ALWO3e0k=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Jestem niezmiernie zadowolony z usług tego salonu. Profesjonalizm, jakość oraz podejście do klienta stoją na najwyższym poziomie. Serdecznie polecam!
+    - quote: Najmilsza i najbardziej profesjonalna obsługa z jaką mialam doczynienia Uwielbiam i polecam
       author:
-        name: Jazmin Mccall
-        description: CEO w Firmie
+        name: Małgorzata Nowaczyk
         avatar:
-          src: https://i.pravatar.cc/120?img=9
+          src: https://lh3.googleusercontent.com/a-/ALV-UjWvFTlEKot0donwRAJCXH3v0QIs5zilcqP-42eUebTIZKYvnSH4=w72-h72-p-rp-mo-br100
+          loading: lazy
+    - quote: Pasja połączona z wiedzą. Polecam :)
+      author:
+        name: Alicja Dudek
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjXN_9b7xFxdXiCxkmlLhX6Bi0q8ViHW50berOFSTk2l0PKym4vc=w72-h72-p-rp-mo-ba3-br100
           loading: lazy
 faq:
   title: Często zadawane pytania
