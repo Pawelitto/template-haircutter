@@ -52,7 +52,7 @@
           dynamic
         />
       </div>
-      <p class="mb-2 text-xl font-bold dark:text-white">Lokalizacja</p>
+      <p class="mb-3 text-xl font-bold dark:text-white">Lokalizacja</p>
       <p class="mb-3 text-gray-500 dark:text-gray-400">
         Sprawdź naszą lokalizację i odwiedź nas w dogodnym dla Ciebie terminie.
       </p>
