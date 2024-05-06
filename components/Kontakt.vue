@@ -17,9 +17,9 @@
         Napisz do nas, aby uzyskać odpowiedzi na swoje pytania i zapytania.
       </p>
       <NuxtLink
-        to="mailto:af.mobilnyfryzjer@gmail.com"
+        to="mailto:a.fryzjerstwo@gmail.com"
         class="font-semibold text-primary-600 dark:text-primary-500 hover:underline"
-        >af.mobilnyfryzjer@gmail.com</NuxtLink
+        >a.fryzjerstwo@gmail.com</NuxtLink
       >
     </div>
     <div>
@@ -37,9 +37,9 @@
         Chętnie odpowiemy na Twoje pytania i zapytania telefonicznie.
       </p>
       <NuxtLink
-        to="tel:+48533021929"
+        to="tel:+48500422200"
         class="font-semibold text-primary-600 dark:text-primary-500"
-        >+48 533 021 929</NuxtLink
+        >+48 500 422 200</NuxtLink
       >
     </div>
     <div>
@@ -57,10 +57,10 @@
         Sprawdź naszą lokalizację i odwiedź nas w dogodnym dla Ciebie terminie.
       </p>
       <NuxtLink
-        to="https://maps.app.goo.gl/iRGYpF9mzAPkoDPh7"
+        to="https://maps.app.goo.gl/ag6FVDRJh5Am4QHv6"
         target="_blank"
         class="inline-flex py-2 px-4 text-sm font-medium text-center rounded-lg border text-primary-600 border-primary-600 hover:text-white hover:bg-primary-600 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:border-primary-500 dark:text-primary-500 dark:hover:text-white dark:hover:bg-primary-600 dark:focus:ring-primary-800"
-        >Cicha 3 44-230 Czerwionka-Leszczyny</NuxtLink
+        >Tadeusza Nalepy 19, 44-237 Bełk</NuxtLink
       >
     </div>
   </div>

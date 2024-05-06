@@ -1,8 +1,8 @@
-title: Alina Fleischer
-description: OAlina Fleischer - Twój Fryzjer w Dowolnym Miejscu
+title: Marianna Kania
+description: Odkryj swoją nową fryzurę już dziś
 hero:
-  title: Alina Fleischer - Twój Fryzjer w Dowolnym Miejscu
-  description: Wygodna Mobilność, Profesjonalne Usługi Fryzjerskie Bez Wychodzenia z Domu
+  title: Odkryj swoją nową fryzurę już dziś
+  description: Nasze doświadczone ręce transformują Twoje włosy, oferując personalizowane strzyżenie i stylizację. Poczuj się wyjątkowo z każdym cięciem.
   headline:
     label: Kontakt
     to: "#kontakt"
@@ -13,14 +13,6 @@ hero:
       trailing: true
       to: "#opinie"
       size: xl
-logos:
-  title: Trusted by the world's best
-  icons:
-    - i-simple-icons-amazonaws
-    - i-simple-icons-heroku
-    - i-simple-icons-netlify
-    - i-simple-icons-vercel
-    - i-simple-icons-cloudflare
 offer:
   headline: Oferta
   title: Odkryj nasze usługi fryzjerskie
@@ -95,16 +87,12 @@ faq:
   title: Często zadawane pytania
   description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszego zakładu fryzjerskiego.
   items:
-    - label: Czy fryzjer dojedzie do mojego domu?
-      content: Tak, nasz mobilny fryzjer dojeżdża bezpośrednio do klienta, zapewniając wygodę i profesjonalną obsługę we własnym domu.
+    - label: Jakie usługi oferuje nasz zakład fryzjerski?
+      content: Nasz zakład specjalizuje się w szerokim zakresie usług fryzjerskich, takich jak strzyżenie, koloryzacja, trwała ondulacja, stylizacja, pielęgnacja włosów i wiele innych. Zapraszamy do zapoznania się z pełną listą usług na naszej stronie.
       defaultOpen: true
-    - label: Jakie usługi oferuje mobilny fryzjer?
-      content: Oferujemy pełen zakres usług fryzjerskich, w tym strzyżenie, modelowanie, koloryzację oraz zabiegi pielęgnacyjne dla różnych typów włosów.
-    - label: Czy mobilny fryzjer jest dostępny w weekendy?
-      content: Tak, jesteśmy dostępni również w soboty, ale wymagana jest wcześniejsza rezerwacja.
-    - label: Jak daleko mobilny fryzjer jest w stanie dojechać?
-      content: Nasz zasięg obejmuje całe Dębieńsko oraz okoliczne miejscowości.
-    - label: Czy oferujemy porady dotyczące pielęgnacji włosów w domu?
-      content: Tak! Nasi fryzjerzy chętnie udzielają porad dotyczących pielęgnacji włosów w domu.
     - label: Jakie produkty fryzjerskie używamy?
-      content: Korzystamy z wysokiej jakości produktów renomowanych marek. Stawiamt na produkty, które są skuteczne i bezpieczne dla włosów i skóry głowy.
+      content: W naszym salonie korzystamy z wysokiej jakości produktów renomowanych marek. Stawiamy na produkty, które są skuteczne i bezpieczne dla włosów i skóry głowy.
+    - label: Czy oferujemy usługi kosmetyczne?
+      content: Oprócz usług fryzjerskich, oferujemy również zabiegi kosmetyczne, takie jak manicure, pedicure, depilacja czy makijaż. Nasza kosmetyczka jest do Państwa dyspozycji.
+    - label: Jak dbamy o higienę w naszym salonie?
+      content: Nasz zakład przestrzega rygorystycznych standardów sanitarnych. Wszystkie narzędzia są dokładnie dezynfekowane po każdym kliencie, a stanowiska pracy są utrzymane w czystości.

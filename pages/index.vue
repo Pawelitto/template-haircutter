@@ -11,12 +11,10 @@ useSeoMeta({
 });
 
 const items = [
-  "https://media.students.pl/public/article/image/fryzjer.jpeg",
-  "https://www.themailroombarberco.com/cdn/shop/articles/MailroomBarberCo_TeachingSession-7_2048x.jpg?v=1642018666",
-  "https://gfx.stylzycia.radiozet.pl/var/g3-radiozetstylzycia/storage/images/moda-i-uroda/fryzjerka-z-leborka-zniszczyla-klientce-wlosy-sad-zarzadzil-odszkodowanie/14712729-1-pol-PL/Fryzjerka-z-Leborka-zniszczyla-klientce-wlosy.-Sad-zarzadzil-odszkodowanie_full-hd.jpg",
-  "https://porady.pracuj.pl/file/2021/06/fryzjer_900.jpg",
-  "https://d-art.ppstatic.pl/kadry/k/r/1/72/ec/a1ac1b6122007d1bbd7de11bd4e1_o_original.jpg",
-  "https://kwalifikacje.edu.pl/wp-content/uploads/shutterstock_481482805-scaled.jpg",
+  "grafika3.jpeg",
+  "grafika4.jpeg",
+  "grafika5.jpeg",
+  "grafika6.jpeg",
 ];
 </script>
 
