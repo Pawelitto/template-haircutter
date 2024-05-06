@@ -17,9 +17,9 @@
         Napisz do nas, aby uzyskać odpowiedzi na swoje pytania i zapytania.
       </p>
       <NuxtLink
-        to="mailto:abc@example.com"
+        to="mailto:af.mobilnyfryzjer@gmail.com"
         class="font-semibold text-primary-600 dark:text-primary-500 hover:underline"
-        >hello@flowbite.com</NuxtLink
+        >af.mobilnyfryzjer@gmail.com</NuxtLink
       >
     </div>
     <div>
@@ -37,9 +37,9 @@
         Chętnie odpowiemy na Twoje pytania i zapytania telefonicznie.
       </p>
       <NuxtLink
-        to="tel:+48513566650"
+        to="tel:+48533021929"
         class="font-semibold text-primary-600 dark:text-primary-500"
-        >+48 513 566 650</NuxtLink
+        >+48 533 021 929</NuxtLink
       >
     </div>
     <div>
@@ -57,10 +57,10 @@
         Sprawdź naszą lokalizację i odwiedź nas w dogodnym dla Ciebie terminie.
       </p>
       <NuxtLink
-        to="https://maps.app.goo.gl/oWcvB1mdmTs19SAb9"
+        to="https://maps.app.goo.gl/iRGYpF9mzAPkoDPh7"
         target="_blank"
         class="inline-flex py-2 px-4 text-sm font-medium text-center rounded-lg border text-primary-600 border-primary-600 hover:text-white hover:bg-primary-600 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:border-primary-500 dark:text-primary-500 dark:hover:text-white dark:hover:bg-primary-600 dark:focus:ring-primary-800"
-        >Zobacz na mapie</NuxtLink
+        >Cicha 3 44-230 Czerwionka-Leszczyny</NuxtLink
       >
     </div>
   </div>

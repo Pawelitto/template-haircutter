@@ -35,7 +35,11 @@ nuxtApp.hooks.hookOnce("page:finish", () => {
 <template>
   <UHeader :links="links">
     <template #logo>
-      Małgorzata Draga<UBadge label="Fryzjer" variant="subtle" class="mb-0.5" />
+      Alina Fleischer<UBadge
+        label="Mobilny fryzjer"
+        variant="subtle"
+        class="mb-0.5"
+      />
     </template>
 
     <template #panel>
